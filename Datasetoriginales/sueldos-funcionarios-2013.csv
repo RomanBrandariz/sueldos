@@ -1,0 +1,266 @@
+anio;nromes;mes;apellido;nombre;cargo;asig_mensuales;salario_familiar;descuentos_mensuales;liquido
+2013;1;Enero;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;1;Enero;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;39678,7;;-11316,4;28362,3
+2013;1;Enero;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;34999,5;;-11373,8;23625,7
+2013;1;Enero;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;34999,5;;-10328,7;24670,8
+2013;1;Enero;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;34999,5;;-10718,6;24280,9
+2013;1;Enero;REYBAUD;GRACIELA MABEL;Ministro de Salud;34999,5;;-12412,9;22586,6
+2013;1;Enero;BULLRICH;ESTEBAN JOSE;Ministro de Educación;34999,5;;-10646,7;24352,8
+2013;1;Enero;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;34999,5;;-10446,3;24553,2
+2013;1;Enero;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;34999,5;;-10941,9;24057,6
+2013;1;Enero;STANLEY;CAROLINA;Ministra de Desarrollo Social;34999,5;;-10995,6;24003,9
+2013;1;Enero;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;34999,5;;-10269,6;24729,9
+2013;1;Enero;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;34999,5;;-10171,2;24828,3
+2013;1;Enero;IBARRA;ANDRES HORACIO;Ministro de Modernización;34999,5;;-10161,5;24838,1
+2013;1;Enero;MONZO;EMILIO;Ministro de Gobierno;34999,5;2499;-10178,5;27320
+2013;1;Enero;PEÑA;MARCOS;Secretario General;34999,5;507,5;-10578,3;24928,7
+2013;1;Enero;CLUSELLAS;PABLO;Secretario Legal y Técnico;33249,5;;-9504,33;23745,2
+2013;1;Enero;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;33249,5;;-10732,7;22516,8
+2013;1;Enero;DE GODOY;MIGUEL ANGEL;Secretario de Medios;33249,5;;-10732,7;22516,8
+2013;1;Enero;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;33249,5;800;-9727,7;24321,8
+2013;1;Enero;;;Subsecretario;27999,6;;;
+2013;1;Enero;;;Director General;24499,7;;;
+2013;1;Enero;;;Director General Adjunto;24499,7;;;
+2013;2;Febrero;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;2;Febrero;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;39678,7;;-12142,8;27535,9
+2013;2;Febrero;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;34999,5;;-12151;22848,5
+2013;2;Febrero;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;34999,5;;-10328,7;24670,8
+2013;2;Febrero;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;34999,5;;-10718,6;24280,9
+2013;2;Febrero;REYBAUD;GRACIELA MABEL;Ministro de Salud;34999,5;;-12412,9;22586,6
+2013;2;Febrero;BULLRICH;ESTEBAN JOSE;Ministro de Educación;34999,5;;-11673,3;23326,3
+2013;2;Febrero;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;34999,5;;-11354,1;23645,4
+2013;2;Febrero;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;34999,5;;-10941,9;24057,6
+2013;2;Febrero;STANLEY;CAROLINA;Ministra de Desarrollo Social;34999,5;;-10941,9;24057,6
+2013;2;Febrero;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;34999,5;;-10269,6;24729,9
+2013;2;Febrero;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;34999,5;;-10204,1;24795,4
+2013;2;Febrero;IBARRA;ANDRES HORACIO;Ministro de Modernización;34999,5;;-10838,6;24160,9
+2013;2;Febrero;MONZO;EMILIO;Ministro de Gobierno;34999,5;1195;-11764,1;24430,4
+2013;2;Febrero;PEÑA;MARCOS;Secretario General;34999,5;407,5;-10820,3;24586,7
+2013;2;Febrero;CLUSELLAS;PABLO;Secretario Legal y Técnico;33249,5;;-10491,5;22758
+2013;2;Febrero;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;33249,5;;-10732,7;22516,8
+2013;2;Febrero;DE GODOY;MIGUEL ANGEL;Secretario de Medios;33249,5;;-10732,7;22516,8
+2013;2;Febrero;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;33249,5;700;-9951,93;23997,6
+2013;2;Febrero;;;Subsecretario;27999,6;;;
+2013;2;Febrero;;;Director General;24499,7;;;
+2013;2;Febrero;;;Director General Adjunto;24499,7;;;
+2013;3;Marzo;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;3;Marzo;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;39678,7;;-11211,8;28466,9
+2013;3;Marzo;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;34999,5;;-11788,1;23211,4
+2013;3;Marzo;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;34999,5;;-9628,75;25370,8
+2013;3;Marzo;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;34999,5;;-9946,09;25053,4
+2013;3;Marzo;REYBAUD;GRACIELA MABEL;Ministro de Salud;34999,5;;-11829,5;23170
+2013;3;Marzo;BULLRICH;ESTEBAN JOSE;Ministro de Educación;34999,5;;-9370,3;25629,2
+2013;3;Marzo;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;34999,5;;-4215,33;30784,2
+2013;3;Marzo;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;34999,5;;-10421,4;24578,1
+2013;3;Marzo;STANLEY;CAROLINA;Ministra de Desarrollo Social;34999,5;;-6283,42;28716,1
+2013;3;Marzo;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;34999,5;;-9329,04;25670,5
+2013;3;Marzo;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;34999,5;;-9441,18;25558,3
+2013;3;Marzo;IBARRA;ANDRES HORACIO;Ministro de Modernización;34999,5;;-682,04;34317,5
+2013;3;Marzo;MONZO;EMILIO;Ministro de Gobierno;34999,5;1195;-2032,79;34161,7
+2013;3;Marzo;PEÑA;MARCOS;Secretario General;34999,5;407,5;4542,7;39949,7
+2013;3;Marzo;CLUSELLAS;PABLO;Secretario Legal y Técnico;33249,5;;-9644,56;23605
+2013;3;Marzo;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;33249,5;;-10212,2;23037,3
+2013;3;Marzo;DE GODOY;MIGUEL ANGEL;Secretario de Medios;33249,5;;-10212,2;23037,3
+2013;3;Marzo;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;33249,5;580;-9095,39;24734,2
+2013;3;Marzo;;;Subsecretario;27999,6;;;
+2013;3;Marzo;;;Director General;24499,7;;;
+2013;3;Marzo;;;Director General Adjunto;24499,7;;;
+2013;4;Abril;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;4;Abril;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;39678,7;;-11787,7;27891
+2013;4;Abril;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;34999,5;;-12179,4;22820,1
+2013;4;Abril;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;34999,5;;-10161,7;24837,8
+2013;4;Abril;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;34999,5;;-10510,6;24488,9
+2013;4;Abril;REYBAUD;GRACIELA MABEL;Ministro de Salud;34999,5;;-12268;22731,6
+2013;4;Abril;BULLRICH;ESTEBAN JOSE;Ministro de Educación;34999,5;;-11274,5;23725
+2013;4;Abril;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;34999,5;;-10949;24050,6
+2013;4;Abril;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;34999,5;;-10859,9;24139,6
+2013;4;Abril;STANLEY;CAROLINA;Ministra de Desarrollo Social;34999,5;;-10762,6;24236,9
+2013;4;Abril;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;34999,5;;-9977,52;25022
+2013;4;Abril;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;34999,5;;-9972,73;25026,8
+2013;4;Abril;IBARRA;ANDRES HORACIO;Ministro de Modernización;34999,5;;-10124,6;24875
+2013;4;Abril;MONZO;EMILIO;Ministro de Gobierno;34999,5;1195;-15808,3;20386,2
+2013;4;Abril;PEÑA;MARCOS;Secretario General;34999,5;407,5;-10815,5;24591,5
+2013;4;Abril;CLUSELLAS;PABLO;Secretario Legal y Técnico;33249,5;;-10178,5;23071,1
+2013;4;Abril;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;33249,5;;-10650,7;22598,9
+2013;4;Abril;DE GODOY;MIGUEL ANGEL;Secretario de Medios;33249,5;;-10650,7;22598,9
+2013;4;Abril;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;33249,5;385;-9654,69;23979,8
+2013;4;Abril;;;Subsecretario;27999,6;;;
+2013;4;Abril;;;Director General;24499,7;;;
+2013;4;Abril;;;Director General Adjunto;24499,7;;;
+2013;5;Mayo;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;5;Mayo;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;39678,7;;-11787,7;27891
+2013;5;Mayo;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;38500,1;;-13411,4;25088,7
+2013;5;Mayo;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;38500,1;;-11332,7;27167,4
+2013;5;Mayo;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;38500,1;;-11742,6;26757,5
+2013;5;Mayo;REYBAUD;GRACIELA MABEL;Ministro de Salud;38500,1;;-13636,5;24863,6
+2013;5;Mayo;BULLRICH;ESTEBAN JOSE;Ministro de Educación;38500,1;;-10835,4;27664,6
+2013;5;Mayo;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;38500,1;;-12181;26319,1
+2013;5;Mayo;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;38500,1;;-12091,9;26408,2
+2013;5;Mayo;STANLEY;CAROLINA;Ministra de Desarrollo Social;38500,1;;-11994,6;26505,5
+2013;5;Mayo;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;38500,1;;-11209,5;27290,5
+2013;5;Mayo;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;38500,1;;-11143,7;27356,4
+2013;5;Mayo;IBARRA;ANDRES HORACIO;Ministro de Modernización;38500,1;;-11356,6;27143,5
+2013;5;Mayo;MONZO;EMILIO;Ministro de Gobierno;38500,1;1195;-11950;27745,1
+2013;5;Mayo;PEÑA;MARCOS;Secretario General;38500,1;407,5;-11986,4;26921,1
+2013;5;Mayo;CLUSELLAS;PABLO;Secretario Legal y Técnico;36575,1;;-11290,9;25284,2
+2013;5;Mayo;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;36575,1;;-11821,1;24754
+2013;5;Mayo;DE GODOY;MIGUEL ANGEL;Secretario de Medios;36575,1;;-11821,1;24754
+2013;5;Mayo;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;36575,1;385;-10825,1;26134,9
+2013;5;Mayo;;;Subsecretario;30800,1;;;
+2013;5;Mayo;;;Director General;26950,1;;;
+2013;5;Mayo;;;Director General Adjunto;26950,1;;;
+2013;6;Junio;MACRI;MAURICIO;Jefe de Gobierno;9450;;-1634,85;7815,15
+2013;6;Junio;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;73405,6;;-19247,9;54157,7
+2013;6;Junio;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;57750,1;;-16615;41135,1
+2013;6;Junio;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;57750,1;;-14405,1;43345
+2013;6;Junio;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;57750,1;;-14867,2;42882,9
+2013;6;Junio;REYBAUD;GRACIELA MABEL;Ministro de Salud;57750,1;;-17161;40589,1
+2013;6;Junio;BULLRICH;ESTEBAN JOSE;Ministro de Educación;57750,1;;-15710,3;42039,8
+2013;6;Junio;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;57750,1;;-15344,7;42405,5
+2013;6;Junio;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;57750,1;;-15211,3;42538,8
+2013;6;Junio;STANLEY;CAROLINA;Ministra de Desarrollo Social;57750,1;;-15117,5;42632,6
+2013;6;Junio;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;57750,1;;-14335,2;43414,9
+2013;6;Junio;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;57750,1;;-14219,3;43530,9
+2013;6;Junio;IBARRA;ANDRES HORACIO;Ministro de Modernización;57750,1;;-14529,4;43220,7
+2013;6;Junio;MONZO;EMILIO;Ministro de Gobierno;57750,1;1195;-15155,6;43789,5
+2013;6;Junio;PEÑA;MARCOS;Secretario General;57750,1;340;-15126,7;42963,4
+2013;6;Junio;CLUSELLAS;PABLO;Secretario Legal y Técnico;54862,6;;-14414,8;40447,8
+2013;6;Junio;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;54862,6;;-14882,5;39980,1
+2013;6;Junio;DE GODOY;MIGUEL ANGEL;Secretario de Medios;54862,6;;-14882,5;39980,1
+2013;6;Junio;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;54862,6;385;-13914;41333,6
+2013;6;Junio;;;Subsecretario;49087,6;;;
+2013;6;Junio;;;Director General;45237,6;;;
+2013;6;Junio;;;Director General Adjunto;45237,6;;;
+2013;7;Julio;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;7;Julio;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;48011,2;;-14908,9;33102,3
+2013;7;Julio;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;38500,1;;-13755,1;24745
+2013;7;Julio;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;38500,1;;-12282;26218
+2013;7;Julio;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;38500,1;;-12738,9;25761,2
+2013;7;Julio;REYBAUD;GRACIELA MABEL;Ministro de Salud;38500,1;;-14659,5;23840,6
+2013;7;Julio;BULLRICH;ESTEBAN JOSE;Ministro de Educación;38500,1;;-12433,7;26066,3
+2013;7;Julio;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;38500,1;;-12779,6;25720,5
+2013;7;Julio;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;38500,1;;-13093,5;25406,6
+2013;7;Julio;STANLEY;CAROLINA;Ministra de Desarrollo Social;38500,1;;-12992,7;25507,4
+2013;7;Julio;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;38500,1;;-12204,8;26295,3
+2013;7;Julio;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;38500,1;;-12089,9;26410,2
+2013;7;Julio;IBARRA;ANDRES HORACIO;Ministro de Modernización;38500,1;;-11910,8;26589,2
+2013;7;Julio;MONZO;EMILIO;Ministro de Gobierno;38500,1;1195;-11981,7;27713,4
+2013;7;Julio;PEÑA;MARCOS;Secretario General;38500,1;340;-12316;26524
+2013;7;Julio;CLUSELLAS;PABLO;Secretario Legal y Técnico;36575,1;;-11190,5;25384,5
+2013;7;Julio;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;36575,1;;-12766,5;23808,6
+2013;7;Julio;DE GODOY;MIGUEL ANGEL;Secretario de Medios;36575,1;;-12766,5;23808,6
+2013;7;Julio;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;36575,1;385;-11629,4;25330,7
+2013;7;Julio;;;Subsecretario;30800,1;;;
+2013;7;Julio;;;Director General;26950,1;;;
+2013;7;Julio;;;Director General Adjunto;26950,1;;;
+2013;8;Agosto;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;8;Agosto;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;48011,2;;-15548,1;32463,1
+2013;8;Agosto;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;42350,2;;-15852,2;26498
+2013;8;Agosto;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;42350,2;;-13572,1;28778,2
+2013;8;Agosto;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;42350,2;;-14099,3;28251
+2013;8;Agosto;REYBAUD;GRACIELA MABEL;Ministro de Salud;42350,2;;-16164,7;26185,5
+2013;8;Agosto;BULLRICH;ESTEBAN JOSE;Ministro de Educación;42350,2;;-14871,3;27478,9
+2013;8;Agosto;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;42350,2;;-14580,8;27769,4
+2013;8;Agosto;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;42350,2;;-14448,5;27901,7
+2013;8;Agosto;STANLEY;CAROLINA;Ministra de Desarrollo Social;42350,2;;-14351,3;27999
+2013;8;Agosto;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;42350,2;;-13566,2;28784
+2013;8;Agosto;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;42350,2;;-13383,1;28967,1
+2013;8;Agosto;IBARRA;ANDRES HORACIO;Ministro de Modernización;42350,2;;-13759,7;28590,5
+2013;8;Agosto;MONZO;EMILIO;Ministro de Gobierno;42350,2;740;-14420;28670,3
+2013;8;Agosto;PEÑA;MARCOS;Secretario General;42350,2;340;-14292,3;28397,9
+2013;8;Agosto;CLUSELLAS;PABLO;Secretario Legal y Técnico;40232,7;;-13516,9;26715,8
+2013;8;Agosto;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;40232,7;;-14053,8;26178,9
+2013;8;Agosto;DE GODOY;MIGUEL ANGEL;Secretario de Medios;40232,7;;-14053,8;26178,9
+2013;8;Agosto;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;40232,7;385;-13080,9;27536,9
+2013;8;Agosto;;;Subsecretario;33880,2;;;
+2013;8;Agosto;;;Director General;29645,2;;;
+2013;8;Agosto;;;Director General Adjunto;29645,2;;;
+2013;9;Septiembre;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;9;Septiembre;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;48011,2;;-15948,3;32063
+2013;9;Septiembre;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;42350,2;;-16129,3;26220,9
+2013;9;Septiembre;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;42350,2;;-13972,2;28378
+2013;9;Septiembre;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;42350,2;;-14488,9;27861,3
+2013;9;Septiembre;REYBAUD;GRACIELA MABEL;Ministro de Salud;42350,2;;-16516,8;25833,4
+2013;9;Septiembre;BULLRICH;ESTEBAN JOSE;Ministro de Educación;42350,2;;-15098,2;27252,1
+2013;9;Septiembre;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;42350,2;;-14857,9;27492,3
+2013;9;Septiembre;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;42350,2;;-14838,2;27512
+2013;9;Septiembre;STANLEY;CAROLINA;Ministra de Desarrollo Social;42350,2;;-14740,9;27609,3
+2013;9;Septiembre;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;42350,2;;-13955,8;28394,4
+2013;9;Septiembre;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;42350,2;;-13783,2;28567
+2013;9;Septiembre;IBARRA;ANDRES HORACIO;Ministro de Modernización;42350,2;;-14036,7;28313,5
+2013;9;Septiembre;MONZO;EMILIO;Ministro de Gobierno;42350,2;1787,5;-14646,8;29491
+2013;9;Septiembre;PEÑA;MARCOS;Secretario General;42350,2;340;-14519,2;28171
+2013;9;Septiembre;CLUSELLAS;PABLO;Secretario Legal y Técnico;40232,7;;-13752,4;26480,3
+2013;9;Septiembre;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;40232,7;;-14443,5;25789,2
+2013;9;Septiembre;DE GODOY;MIGUEL ANGEL;Secretario de Medios;40232,7;;-14443,5;25789,2
+2013;9;Septiembre;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;40232,7;385;-13363,5;27254,2
+2013;9;Septiembre;;;Subsecretario;33880,2;;;
+2013;9;Septiembre;;;Director General;29645,2;;;
+2013;9;Septiembre;;;Director General Adjunto;29645,2;;;
+2013;10;Octubre;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;10;Octubre;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;48011,2;;-16199;31812,3
+2013;10;Octubre;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;42350,2;;-16323,4;26026,8
+2013;10;Octubre;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;42350,2;;-14063,8;28286,5
+2013;10;Octubre;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;42350,2;;-14489;27861,3
+2013;10;Octubre;REYBAUD;GRACIELA MABEL;Ministro de Salud;42350,2;;-16594,7;25755,5
+2013;10;Octubre;BULLRICH;ESTEBAN JOSE;Ministro de Educación;42350,2;;-15468,9;26881,3
+2013;10;Octubre;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;42350,2;;-14997,5;27352,8
+2013;10;Octubre;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;42350,2;;-14838,2;27512
+2013;10;Octubre;STANLEY;CAROLINA;Ministra de Desarrollo Social;42350,2;;-14740,9;27609,3
+2013;10;Octubre;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;42350,2;;-13955,9;28394,3
+2013;10;Octubre;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;42350,2;;-13783,3;28567
+2013;10;Octubre;IBARRA;ANDRES HORACIO;Ministro de Modernización;42350,2;;-14424,6;27925,7
+2013;10;Octubre;MONZO;EMILIO;Ministro de Gobierno;42350,2;1472,5;-14933,5;28889,2
+2013;10;Octubre;PEÑA;MARCOS;Secretario General;42350,2;340;-14733,9;27956,3
+2013;10;Octubre;CLUSELLAS;PABLO;Secretario Legal y Técnico;40232,7;;-14003,1;26229,6
+2013;10;Octubre;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;40232,7;;-14443,5;25789,2
+2013;10;Octubre;DE GODOY;MIGUEL ANGEL;Secretario de Medios;40232,7;;-14443,5;25789,2
+2013;10;Octubre;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;40232,7;385;-13469,3;27148,4
+2013;10;Octubre;;;Subsecretario;33880,2;;;
+2013;10;Octubre;;;Director General;29645,2;;;
+2013;10;Octubre;;;Director General Adjunto;29645,2;;;
+2013;11;Noviembre;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;11;Noviembre;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;49451,6;;-16680,7;32770,9
+2013;11;Noviembre;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;47009;;-17963,1;29045,9
+2013;11;Noviembre;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;47009;;-15713,1;31295,9
+2013;11;Noviembre;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;47009;;-16128,6;30880,5
+2013;11;Noviembre;REYBAUD;GRACIELA MABEL;Ministro de Salud;47009;;-18416,1;28593
+2013;11;Noviembre;BULLRICH;ESTEBAN JOSE;Ministro de Educación;47009;;-17027,2;29981,9
+2013;11;Noviembre;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;47009;;-16424,7;30584,3
+2013;11;Noviembre;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;47009;;-16477,9;30531,1
+2013;11;Noviembre;STANLEY;CAROLINA;Ministra de Desarrollo Social;47009;;-16380,6;30628,5
+2013;11;Noviembre;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;47009;;-15595,5;31413,6
+2013;11;Noviembre;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público;47009;;-15341,6;31667,4
+2013;11;Noviembre;IBARRA;ANDRES HORACIO;Ministro de Modernización;47009;;-16065,5;30943,6
+2013;11;Noviembre;MONZO;EMILIO;Ministro de Gobierno;47009;1472,5;-16491,8;31989,7
+2013;11;Noviembre;PEÑA;MARCOS;Secretario General;47009;340;-16292,2;31056,8
+2013;11;Noviembre;CLUSELLAS;PABLO;Secretario Legal y Técnico;44658,6;;-15483,5;29175
+2013;11;Noviembre;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;44658,6;;-16001,2;28657,4
+2013;11;Noviembre;DE GODOY;MIGUEL ANGEL;Secretario de Medios;44658,6;;-16001,2;28657,4
+2013;11;Noviembre;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;44658,6;385;-15026,9;30016,7
+2013;11;Noviembre;;;Subsecretario;37607,2;;;
+2013;11;Noviembre;;;Director General;32906,3;;;
+2013;11;Noviembre;;;Director General Adjunto;32906,3;;;
+2013;12;Diciembre;MACRI;MAURICIO;Jefe de Gobierno;6300;;-1089,9;5210,1
+2013;12;Diciembre;VIDAL;MARIA EUGENIA;Vice Jefa de Gobierno;49451,6;;-15521,8;33929,7
+2013;12;Diciembre;RODRIGUEZ LARRETA;HORACIO ANTONIO;Jefe de Gabinete de Ministros;47009;;-16825,3;30183,8
+2013;12;Diciembre;GRINDETTI;NESTOR OSVALDO;Ministro de Hacienda;47009;;-14711,5;32297,6
+2013;12;Diciembre;MONTENEGRO;GUILLERMO TRISTAN;Ministro de Justicia y Seguridad;47009;;-15127;31882
+2013;12;Diciembre;REYBAUD;GRACIELA MABEL;Ministro de Salud;47009;;-17393,1;29616
+2013;12;Diciembre;BULLRICH;ESTEBAN JOSE;Ministro de Educación;47009;;-15866,1;31142,9
+2013;12;Diciembre;CHAIN;DANIEL GUSTAVO;Ministro de Desarrollo Urbano;47009;;-15163,9;31845,2
+2013;12;Diciembre;LOMBARDI;HERNAN SANTIAGO;Ministro de Cultura;47009;;-15476,3;31532,7
+2013;12;Diciembre;STANLEY;CAROLINA;Ministra de Desarrollo Social;47009;;-15379;31630
+2013;12;Diciembre;CABRERA;FRANCISCO ADOLFO;Ministro de Desarrollo Económico;47009;;-14594;32415,1
+2013;12;Diciembre;SANTILLI;DIEGO CESAR;Ministro de Ambiente y Espacio Público (hasta 05/12/2013);7834,84;;-1345,64;6489,2
+2013;12;Diciembre;CENZON;EDUARDO;Ministro de Ambiente y Espacio Público (desde 06/12/2013);39174,2;;-12323,6;26850,6
+2013;12;Diciembre;IBARRA;ANDRES HORACIO;Ministro de Modernización;47009;;-14934;32075
+2013;12;Diciembre;MONZO;EMILIO;Ministro de Gobierno;47009;1472,5;-15375,3;33106,3
+2013;12;Diciembre;PEÑA;MARCOS;Secretario General;42350,2;340;-14733,9;27956,3
+2013;12;Diciembre;CLUSELLAS;PABLO;Secretario Legal y Técnico;44658,6;;-14386,2;30272,3
+2013;12;Diciembre;GAYTAN;FACUNDO AMADO;Secretario de Comunicación Social;44658,6;;-15055,8;29602,8
+2013;12;Diciembre;DE GODOY;MIGUEL ANGEL;Secretario de Medios;44658,6;;-15055,8;29602,8
+2013;12;Diciembre;MACCHIAVELLI;EDUARDO ALBERTO;Secretario de Gestión Comunal y Atención Ciudadana;44658,6;385;-13952,1;31091,5
+2013;12;Diciembre;;;Subsecretario;37607,2;;;
+2013;12;Diciembre;;;Director General;32906,3;;;
+2013;12;Diciembre;;;Director General Adjunto;32906,3;;;
