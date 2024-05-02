@@ -18,8 +18,8 @@ Se explorará la posibilidad de utilizar técnicas avanzadas de análisis de dat
 
 ## Contacto
 Si tienes alguna pregunta, sugerencia o interés en colaborar en este proyecto, no dudes en ponerte en contacto:
-- LinkedIn: [Roman Brandariz](https://www.linkedin.com/in/romanbrandariz/)
-- GitHub: [RomanBrandariz](https://github.com/RomanBrandariz)
+- LinkedIn: [Roman Brandariz](https://www.linkedin.com/in/romanbrandariz/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romanbrandariz/) [!
+- GitHub: [RomanBrandariz](https://github.com/RomanBrandariz) [GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)](https://github.com/RomanBrandariz)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romanbrandariz/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)](https://github.com/RomanBrandariz)
