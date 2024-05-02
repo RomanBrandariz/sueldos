@@ -1,4 +1,7 @@
-﻿# Proyecto Consulta de Sueldos Ciudad de Buenos Aires
+﻿![Logotipo de la Ciudad de Buenos Aires](Imagenes/Logotipo_de_la_Ciudad_de_Buenos_Aires.svg.png){ width=50% }
+<img src="Imagenes/Logotipo_de_la_Ciudad_de_Buenos_Aires.svg.png" alt="Logotipo de la Ciudad de Buenos Aires" width="50%">
+
+# Proyecto Consulta de Sueldos Ciudad de Buenos Aires
 
 ## Introducción
 Este proyecto tiene como objetivo llevar a cabo un análisis exhaustivo de los sueldos de los funcionarios del gobierno de la Ciudad de Buenos Aires, utilizando datos proporcionados por la propia ciudad. La dolarización de los valores se realiza para facilitar la comparación a lo largo del tiempo, dada la complejidad del contexto económico argentino, caracterizado por fluctuaciones y alta inflación.
