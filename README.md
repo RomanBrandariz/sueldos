@@ -1,4 +1,4 @@
-﻿<img src="Imagenes/Logotipo_de_la_Ciudad_de_Buenos_Aires.svg.png" alt="Logotipo de la Ciudad de Buenos Aires" width="30%">
+﻿<img src="Imagenes/Logotipo_de_la_Ciudad_de_Buenos_Aires.svg.png" alt="Logotipo de la Ciudad de Buenos Aires" width="25%">
  
 # Proyecto Consulta de Sueldos Ciudad de Buenos Aires
 
