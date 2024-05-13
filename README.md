@@ -33,3 +33,5 @@ https://app.powerbi.com/reportEmbed?reportId=95fa4d1b-1a6c-468f-b965-0d8baaa4395
 
 <iframe title="sueldos" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=95fa4d1b-1a6c-468f-b965-0d8baaa43958&autoAuth=true&ctid=800ab0b2-64d8-4f4c-8157-c106fb3ab407" frameborder="0" allowFullScreen="true"></iframe>
 
+<iframe width="800" height="600" src="https://app.powerbi.com/reportEmbed?reportId=95fa4d1b-1a6c-468f-b965-0d8baaa43958" frameborder="0" allowFullScreen="true"></iframe>
+
