@@ -7,6 +7,7 @@
 
 Este proyecto tiene como objetivo llevar a cabo un análisis exhaustivo de los sueldos de los funcionarios del gobierno de la Ciudad de Buenos Aires, utilizando datos proporcionados por la propia ciudad. La dolarización de los valores se realiza para facilitar la comparación a lo largo del tiempo, dada la complejidad del contexto económico argentino, caracterizado por fluctuaciones y alta inflación.
 
+
 ## Datos
 
 Los datos utilizados en este proyecto son obtenidos a través de datasets publicados por el gobierno de la Ciudad de Buenos Aires en su página web oficial. Estos datos son procesados y analizados utilizando Python, específicamente la biblioteca Pandas, para su limpieza y análisis inicial. Se lleva a cabo un proceso riguroso de verificación y validación de los datos para garantizar su integridad y precisión.
